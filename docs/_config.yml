@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Michael Stevenson
-email: siscodotnet@gmail.com
+email: michael@mikeastevenson.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Hello! I'm an HL7 engineer with experience in website design, business analytics, and programming.
   Welcome to my site!
